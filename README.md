@@ -15,3 +15,7 @@ I grab all three lists from this web and turn them into csv files
 3. Pandas Learning.ipynb
 
 Basic pandas instruction
+
+4.Data Cleaning in Pandas.ipynb
+
+The whole process of cleaning a data set using Pandas
