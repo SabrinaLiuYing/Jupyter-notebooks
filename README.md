@@ -19,3 +19,7 @@ Basic pandas instruction
 4.Data Cleaning in Pandas.ipynb
 
 The whole process of cleaning a data set using Pandas
+
+5.EDA in Pandas.ipynb
+
+Explore data analysis in pandas, which find the info of the data set
