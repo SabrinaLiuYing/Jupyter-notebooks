@@ -30,3 +30,6 @@ I grab basic info from this web and turn them into csv files at
 
 source https://www.amazon.com/Milacolato-Sterling-Matching-Engagement-Adjustable/dp/B0B58Z8PBH/ref=sr_1_15?crid=18509H1MSGTVB&keywords=couple&qid=1700187791&sprefix=couple%2B%2Caps%2C342&sr=8-15&th=1&psc=1
 
+7.Automation API Pulls from Cryptocurrency Website.ipynb
+
+Setup API pulls and then automated API pulls from Crypto Website 
